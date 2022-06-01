@@ -2,7 +2,7 @@
   "name": "@tuluai/tuluai-translator",
   "version": "1.0.1",
   "description": "react library to help with translations within a webpage.",
-  "main": "index.js",
+  "main": "main.jsx",
   "scripts": {
     "test": "npm test"
   },
