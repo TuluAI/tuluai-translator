@@ -1,13 +1,19 @@
-## Running React on Repl.it
+## tuluai-translator
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+[TuluAI Translator](https://translator.tuluai.tech/) is a translator built by TuluAI to provide translations for regional and indegenious languages that are not supported by existing translators. 
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+TuluAI has now built a library ```tuluai-translator``` to help with translations on a react application. 
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+###### Note : This is v1 and still under development. Please see below on how functions and components that are available in this library. The package will be updated. 
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+### Installation
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+To install, use the command below
+
+``` npm i @tuluai/tuluai-translator ```
+
+### Functions 
+
+| Function      | Description                                | Parameters           |
+|---------------|--------------------------------------------|----------------------|
+|`translateWord`|Translates a word from a language to another|Word, FromLang, ToLang| 
