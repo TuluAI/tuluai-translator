@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "@tuluai/tuluai-translator",
   "version": "1.0.0",
   "description": "react library to help with translations within a webpage.",
@@ -22,21 +21,4 @@
     "url": "https://github.com/TuluAI/tuluai-translator/issues"
   },
   "homepage": "https://github.com/TuluAI/tuluai-translator#readme"
-=======
-  "name": "ReplitReactjsProject",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
-  },
-  "dependencies": {
-    "@types/react": "^17.0.13",
-    "@types/react-dom": "^17.0.8",
-    "@vitejs/plugin-react-refresh": "^1.3.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "vite": "^2.3.8"
-  }
->>>>>>> main
 }
