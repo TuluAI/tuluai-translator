@@ -1,0 +1,24 @@
+{
+  "name": "@tuluai/tuluai-translator",
+  "version": "1.0.0",
+  "description": "react library to help with translations within a webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuluAI/tuluai-translator.git"
+  },
+  "keywords": [
+    "tulu",
+    "translation",
+    "translator"
+  ],
+  "author": "Amrit Shenava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuluAI/tuluai-translator/issues"
+  },
+  "homepage": "https://github.com/TuluAI/tuluai-translator#readme"
+}
