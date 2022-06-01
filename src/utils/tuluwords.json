@@ -1,0 +1,171 @@
+[
+  {
+    "english" : "hello",
+    "hindi" : "नमस्ते",
+    "hindi-english" : "namaste",
+    "korean-english" : "anneyonghasseyo",
+    "tulu" : "namaskara",
+    "sanskrit-english" : "namo namaha"
+    
+  },
+  {
+    "english": "new year",
+    "tulu": "bisu parba"
+  },
+  {
+    "english" : "thank you",
+    "tulu" : "solmelu",
+    "korean-english" : "kamsahamnida"
+  },
+  {
+    "english" : "you are one good human being",
+    "tulu" : "eer onji edde jana"
+  },
+  {
+    "english" : "go",
+    "tulu" : "pola",
+    "marathi-english" : "ja"
+  },
+  {
+    "english" : "job",
+    "tulu": "bele"
+  },
+  {
+    "english" : "time",
+    "tulu" : "porth"
+  },
+  {
+    "english" : "chicken",
+    "hindi-english" : "murga",
+    "tulu" : "kori"
+  },
+  {
+    "english" : "where",
+    "tulu" : "olpa"
+  },
+  {
+    "english" : "come here",
+    "tulu" : "mulpa bala"
+  },
+  {
+    "english" : "come",
+    "tulu" : "bala"
+  },
+  {
+    "english" : "here",
+    "tulu" : "mulpa"
+  },
+  {
+    "english" : "you",
+    "tulu" : "eer"
+  },
+  {
+    "english" : "me",
+    "tulu" : "yaan"
+  },
+  {
+    "english" : "my",
+    "tulu" : "yenna"
+  },
+  {
+    "english" : "good",
+    "tulu" : "edde",
+    "korean-english" : "joaya"
+  },
+  {
+    "english" : "how",
+    "tulu" : "encha"
+  },
+  {
+    "english" : "what",
+    "tulu" : "dada"
+  },
+  {
+    "english" : "why",
+    "tulu" : "daaye"
+  },
+  {
+    "english" : "mine",
+    "tulu" : "yenna"
+  },
+  {
+    "english":"he",
+    "tulu":"aaye"
+  },
+  {
+    "english":"she",
+    "tulu":"aal"
+  },
+  {
+    "english" : "yes",
+    "tulu" : "andh",
+    "marathi-english" : "ho",
+    "hindi-english" : "haan",
+    "korean-english" : "ne"
+  },
+  {
+    "english" : "no",
+    "tulu" : "ijji",
+    "marathi-english" : "nako",
+    "korean-english" : "aniyo"
+  },
+  {
+    "english":"them",
+    "tulu":"akulu"
+  },
+  {
+    "english": "how are you?",
+    "tulu" : "eer encha ullar?",
+    "marathi-english" : "kasa ahes?"
+  },
+  {
+    "english": "how are you",
+    "tulu" : "eer encha ullar",
+    "marathi-english" : "kasa ahes"
+  },
+  {
+    "english" : "fuck you",
+    "tulu" : "potyer nik"
+  },
+  {
+    "english" : "where are you from?",
+    "tulu" : "eerna oor olpa?"
+  },
+  {
+    "english" : "what is the time?",
+    "tulu" : "porth eth aand?"
+  },
+  {
+    "english" : "you are beautiful",
+    "hindi-english" : "aap khoobsurat hain",
+    "tulu" : "yeer porlu uller"
+  }
+  ,{
+    "english" : "what are you doing?",
+    "tulu" : "dada malthondulla?"
+  }
+  ,{
+    "english" : "where is the hotel?",
+    "tulu" : "hotel olpa undu?"
+  }
+  ,{
+    "english" : "where can i get some food?",
+    "tulu" : "thinyere mulpa olu thikkundu?"
+  },
+  {
+    "english":"what is this place?",
+    "tulu": "undu ovvu jaaga?"
+  },
+  {
+     "english" :  "i love you",
+    "french" : "je t'aime",
+    "gujarati-english": "hu tane prem karu che",
+    "malayalam-english" : "njan ninne premikunnu",
+    "marathi-english" : "mi tumcha prem kartho",
+     "tulu" : "enk yeerna mith mowke und"
+  },
+  {
+    "english":"",
+    "tulu":""
+  }
+]
